@@ -2,9 +2,9 @@
 
 namespace Codana\DumpX\Tests;
 
+use Codana\DumpX\DumpXServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Codana\DumpX\DumpXServiceProvider;
 
 class TestCase extends Orchestra
 {

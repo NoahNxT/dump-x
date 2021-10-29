@@ -2,9 +2,9 @@
 
 namespace Codana\DumpX;
 
+use Codana\DumpX\Commands\DumpXCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Codana\DumpX\Commands\DumpXCommand;
 
 class DumpXServiceProvider extends PackageServiceProvider
 {
