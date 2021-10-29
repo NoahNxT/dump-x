@@ -6,7 +6,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/noahnxt/dump-x.svg?style=flat-square)](https://packagist.org/packages/noahnxt/dump-x)
 
 ---
-How To Use:
+###How To Use:
 
 Usual dump:
 ```bash
@@ -35,32 +35,6 @@ You can install the package via composer:
 
 ```bash
 composer require noahnxt/dump-x
-```
-
-You can publish and run the migrations with:
-
-```bash
-php artisan vendor:publish --provider="Codana\DumpX\DumpXServiceProvider" --tag="dump-x-migrations"
-php artisan migrate
-```
-
-You can publish the config file with:
-```bash
-php artisan vendor:publish --provider="Codana\DumpX\DumpXServiceProvider" --tag="dump-x-config"
-```
-
-This is the contents of the published config file:
-
-```php
-return [
-];
-```
-
-## Usage
-
-```php
-$dump-x = new Codana\DumpX();
-echo $dump-x->echoPhrase('Hello, Codana!');
 ```
 
 ## Testing
