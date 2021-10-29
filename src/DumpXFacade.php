@@ -11,6 +11,6 @@ class DumpXFacade extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'dump-x';
+        return 'dumpx';
     }
 }

@@ -21,5 +21,12 @@ class DumpXServiceProvider extends PackageServiceProvider
             ->hasViews()
             ->hasMigration('create_dump-x_table')
             ->hasCommand(DumpXCommand::class);
+
+        $this->app->bind('dumpx', function($app) {
+            return new DumpX();
+        });
     }
+
+
+
 }
