@@ -6,7 +6,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/noahnxt/dump-x.svg?style=flat-square)](https://packagist.org/packages/noahnxt/dump-x)
 
 ---
-###How To Use:
+## How To Use:
 
 Usual dump:
 ```bash
