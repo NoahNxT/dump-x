@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Codana\DumpX\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class DumpXCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'dump-x';
 
     public $description = 'My command';
 
