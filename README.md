@@ -1,6 +1,6 @@
 # An extension on your daily dump commands. Forget loopig dumps in a loop to get a specific amount of dumps.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/noahnxt/dump-x.svg?style=flat-square)](https://packagist.org/packages/noahnxt/dump-x)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/noahnxt/dump-x.svg?style=flat-square)](https://packagist.org/packages/noahnxt/dump-x#v1)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/noahnxt/dump-x/run-tests?label=tests)](https://github.com/noahnxt/dump-x/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/noahnxt/dump-x/Check%20&%20fix%20styling?label=code%20style)](https://github.com/noahnxt/dump-x/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/noahnxt/dump-x.svg?style=flat-square)](https://packagist.org/packages/noahnxt/dump-x)
